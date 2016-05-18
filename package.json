@@ -1,0 +1,26 @@
+{
+  "name": "cubjsmvnprac",
+  "version": "1.0.0",
+  "description": "This is a test repository to store some tech experiments using Cucumber.js Maven and Jensen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyuchen81/integration-test-cucumberjs-maven-practice.git"
+  },
+  "keywords": [
+    "cucumber.js",
+    "maven"
+  ],
+  "author": "XinHe <xin.he@ingenta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heyuchen81/integration-test-cucumberjs-maven-practice/issues"
+  },
+  "homepage": "https://github.com/heyuchen81/integration-test-cucumberjs-maven-practice#readme",
+  "devDependencies": {
+    "cucumber": "^0.10.2"
+  }
+}
